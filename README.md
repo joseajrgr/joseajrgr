@@ -1,4 +1,4 @@
-# Hi there, I'm joseajrgr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# Hi there, I'm José Antonio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 This is the place where I upload my projects that I do in my free time.
 
