@@ -1,7 +1,8 @@
-# Hi there, I'm José Antonio 👋
+# Hi there, I'm José Antonio <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Wave Hello" width="30" height="30" style="vertical-align: middle;" />
 
-Welcome to my GitHub!  
-Here you'll find projects I build in my free time while studying my degree in **Computer Science and Engineering**.
+Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering student based in Madrid, dedicated to building innovative projects in my free time. Explore my repositories to see my work in action, ranging from web applications to system-level programming and automation tools.
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF">
+
 
 ---
 
@@ -29,3 +30,4 @@ Here are some of the projects I've been working on:
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseajrgr/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseajrgr@gmail.com)
+
